@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JACHTY-WebForms", "JACHTY-WebForms.csproj", "{538B079C-31EB-4385-9E62-2687A73471FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538B079C-31EB-4385-9E62-2687A73471FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538B079C-31EB-4385-9E62-2687A73471FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538B079C-31EB-4385-9E62-2687A73471FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538B079C-31EB-4385-9E62-2687A73471FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A386CA-70F1-4484-A3A7-4EEDDED1B0A9}
+	EndGlobalSection
+EndGlobal
